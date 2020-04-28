@@ -1,6 +1,6 @@
-# Angular 5
+# Angular All
 
-Projeto feito durante o curso de angular 2, 4, 5 da Loiane Groner
+Projeto feito durante o curso de Angular da nossa amiga Loiane Groner
 
 ## Iniciando o projeto
 
